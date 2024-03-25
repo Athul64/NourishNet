@@ -1,0 +1,15 @@
+.mainDiv{
+    margin: 20px
+}
+
+.emptyMsg{
+    display: block;
+    padding-left: 20px;
+    width: 100%;
+    color: rgb(140, 136, 136);
+}
+
+.row-containers{
+    width: 600px;
+    padding-top: 40px;
+}

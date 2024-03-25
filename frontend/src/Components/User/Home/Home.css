@@ -1,0 +1,28 @@
+
+  
+  .carosel-Image {
+    width: 100%; /* Make the images responsive */
+    max-height: 70vh; /* Set the maximum height to the viewport height */
+   
+  }
+  
+.info-div{
+    position: absolute;
+    top: 60%;
+    left: 65%;
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    height: 100px;
+    border-radius: 5px;
+}
+  
+.image-text-div{
+    font-size: larger;
+    color: white;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.userName{
+    color: yellowgreen;
+}

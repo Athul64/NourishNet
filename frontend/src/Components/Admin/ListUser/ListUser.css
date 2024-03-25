@@ -1,0 +1,39 @@
+.content-Div{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+h5 {
+   
+    font-size: 18px;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: 300;
+    padding-bottom: 30px;
+  }
+
+
+
+
+.disablebtn{
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px;
+    width: 80px;
+    color: white;
+    border:none
+}
+.enablebtn{
+    background-color: rgb(80, 108, 234);
+    border-radius: 10px;
+    width: 80px;
+    color: white;
+    border:none
+}
+
+.viewBtn{
+    background-color: rgb(80, 108, 234);
+    border-radius: 10px;
+    width: 80px;
+    color: white;
+    border:none
+}

@@ -1,0 +1,34 @@
+.firstDiv{
+  width: 100%;
+  background-color: rgb(226, 237, 237);
+}
+
+.SubmainDiv{
+    width: 100%;
+    height: 40px;
+    color: black;
+   
+    margin-bottom: 5px;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+  .subList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .subList li {
+    margin-right: 10px; /* Add some spacing between list items */
+  }
+  
+  .Link-none{
+    text-decoration: none;
+    color: black;
+  }
